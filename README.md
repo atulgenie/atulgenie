@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atulgenie
-- 👀 I’m interested in learning R and Pythin
+- 👀 I’m interested in learning R
 - 🌱 I’m currently learning R
 - 📫 You can reach me through my mail id atulsingh.atul960@gmail.com 
 
